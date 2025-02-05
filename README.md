@@ -1,7 +1,5 @@
 # Welth - AI-Powered Finance Platform
 
-![Platform Screenshot](https://github.com/user-attachments/assets/1bc50b85-b421-4122-8ba4-ae68b2b61432)
-
 ## 🚀 Overview
 
 Welth is an AI-powered finance platform that helps users manage their finances efficiently. With advanced analytics, automatic transaction categorization, and AI-driven insights, users can track their expenses, set budgets, and receive personalized financial reports.
