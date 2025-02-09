@@ -21,7 +21,7 @@ const Header = async () => {
             className="h-12 w-auto object-contain"
           />
         </Link>
-
+  <h2>To login for testing use email="demo@gmail.com" and password="passwordfordemo"</h2>
         {/* Navigation Links - Different for signed in/out users */}
         <div className="hidden md:flex items-center space-x-8">
           <SignedOut>
